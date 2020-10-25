@@ -1,4 +1,4 @@
-# challenge1
+# Layout for a Biop
 
 This project will allow designing an interface.
 Basic UI functionality for a business app.
