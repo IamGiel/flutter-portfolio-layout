@@ -3,7 +3,7 @@
 This project will allow designing an interface.
 Basic UI functionality for a business app.
 
-A photography Profile UI.
+A photography Profile UI. <a href="https://www.youtube.com/watch?v=2bLdhh-m5Us" target="_blank">here</a>
 
 ![alt text](https://raw.githubusercontent.com/IamGiel/flutter-portfolio-layout/master/assets/readmePreview.png)
 
