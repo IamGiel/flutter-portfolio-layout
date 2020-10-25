@@ -5,6 +5,9 @@ Basic UI functionality for a business app.
 
 A photography Profile UI.
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
